@@ -1,0 +1,9 @@
+.announcement{
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(126, 97, 1);
+}
+.announcementTitle{
+    color: #fff;
+    font-size: 14px;
+}
